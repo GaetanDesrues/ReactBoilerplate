@@ -1,6 +1,8 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+If you use this template, start by running `npm install` then `npm start`.
+
+This project was (originally) bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
